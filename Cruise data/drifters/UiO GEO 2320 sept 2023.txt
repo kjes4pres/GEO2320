@@ -1,0 +1,14 @@
+﻿Layer			Icon	Color		Name			Position		Comment		Modified				Depth	Locked
+UiO GEO 2320 2023	0	Red		Flyterigg inn 0m 14:23	N 59°52.373'; E 010°41.729'	 	15:11:51 Thursday, September 28, 2023	71.0 m	False
+UiO GEO 2320 2023	0	Red		Flyterigg inn 20m 14:35	N 59°52.109'; E 010°41.968'	 	15:11:57 Thursday, September 28, 2023	75.7 m	False
+UiO GEO 2320 2023	0	Red		Flyterigg inn 3m 14:27	N 59°52.255'; E 010°41.865'	 	15:12:00 Thursday, September 28, 2023	72.1 m	False
+UiO GEO 2320 2023	0	Red		Flyterigg inn 5m 14:30	N 59°52.252'; E 010°41.892'	 	15:12:03 Thursday, September 28, 2023	70.6 m	False
+UiO GEO 2320 2023	0	Magenta		Flytrerigg 2 satt 13:47	N 59°52.133'; E 010°42.017'	 	15:12:11 Thursday, September 28, 2023	75.4 m	False
+UiO GEO 2320 2023	0	LightGreen	BN-1 Lysaker fj.	N 59°52.838'; E 010°38.805'	 	15:12:49 Thursday, September 28, 2023	84.6 m	False
+UiO GEO 2320 2023	0	LightGreen	CP1- Oksenvallflua	N 59°51.853'; E 010°42.083'	 	15:14:35 Thursday, September 28, 2023	85.6 m	False
+UiO GEO 2320 2023	0	LightGreen	R2 Terskel		N 59°53.199'; E 010°39.965'	 	15:14:13 Thursday, September 28, 2023	52.5 m	False
+UiO GEO 2320 2023	0	Yellow		Flyterigg inn 0m 11:58	N 59°51.741'; E 010°40.945'	 	15:11:50 Thursday, September 28, 2023	26.2 m	False
+UiO GEO 2320 2023	0	Yellow		Flyterigg inn 20m 11:51	N 59°51.952'; E 010°41.793'	 	15:11:53 Thursday, September 28, 2023	54.2 m	False
+UiO GEO 2320 2023	0	Yellow		Flyterigg inn 3m 11:42	N 59°52.016'; E 010°41.625'	 	15:11:58 Thursday, September 28, 2023	52.6 m	False
+UiO GEO 2320 2023	0	Yellow		Flyterigg inn 5m 11:45	N 59°52.058'; E 010°41.737'	 	15:12:02 Thursday, September 28, 2023	56.9 m	False
+UiO GEO 2320 2023	0	Yellow		Flyterigg satt 09:52	N 59°52.110'; E 010°42.017'	 	15:12:06 Thursday, September 28, 2023	76.6 m	False
